@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#
+
 ### 📊 Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-demelash&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=daniel-demelash&theme=gruvbox&border_radius=4.5)
-![GitHub Most used Laguage](https://github-readme-stats.vercel.app/api/top-langs?username=daniel-demelash&show_icons=true&theme=gruvbox)
+### ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-demelash&show_icons=true&theme=gruvbox)
+### ![GitHub Streak](https://streak-stats.demolab.com?user=daniel-demelash&theme=gruvbox&border_radius=4.5)
+### ![GitHub Most used Laguage](https://github-readme-stats.vercel.app/api/top-langs?username=daniel-demelash&show_icons=true&theme=gruvbox)
 #
