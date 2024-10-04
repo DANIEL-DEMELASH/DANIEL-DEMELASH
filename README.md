@@ -1,18 +1,23 @@
 ## Hello there 👋
 
+- 👋 Hi I'm Daniel Demelash
+- 🔭 I’m currently working on Mobile App Development
+- 👯 I’m looking to collaborate on Flutter
+- 📫 How to reach me: https://www.linkedin.com/in/daniel-demelash/
+
 <!--
 **DANIEL-DEMELASH/daniel-demelash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-- 👋 Hi I'm Daniel Demelash
-- 🔭 I’m currently working on Mobile App Development
-<!-- - 🌱 I’m currently learning ... -->
-- 👯 I’m looking to collaborate on Flutter
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: https://www.linkedin.com/in/daniel-demelash/
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
+
+<!-- 
+- 🌱 I’m currently learning ... 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... 
+-->
 
 
 <!--
